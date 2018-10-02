@@ -1,6 +1,6 @@
 # Coding practice
 
-- Coding practice and Revision of DS / Algo 
+- Coding practice and Revision of DS / Algorithms 
 
 ### References
 - Tutorial point cplusplus
